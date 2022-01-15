@@ -12,9 +12,9 @@ Additionally, new code was used to improve its effeciency when running in the ma
 
 First of all, let's look at the performance of the stocks in question
 
-![2017_Stocks_Analysis](/resources/2017_results.png)
+![2017_Stocks_Analysis](/resources/VBA_Challenge_2017.png)
 
-![2018_Stocks_Analysis](resources/2018_results.png)
+![2018_Stocks_Analysis](resources/VBA_Challenge_2018.png)
 
 In comparing these two years, we can see that 2018 showed declines for the majority of stocks in our portfolio. However, this was not universal, as ENPH and RUN showed gains, while DQ showed losses. While this is far from ideal, it shows that diversifying from just DQ allowed the portfolio to mitigate some of those losses, in comparison to if DQ was the only stock in the portfolio.
 
