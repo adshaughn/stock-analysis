@@ -12,17 +12,17 @@ Additionally, new code was used to improve its effeciency when running in the ma
 
 First of all, let's look at the performance of the stocks in question
 
-![2017_Stocks_Analysis](/resources/VBA_Challenge_2017.png)
+![2017_Stocks_Analysis](/Resources/VBA_Challenge_2017.png)
 
-![2018_Stocks_Analysis](resources/VBA_Challenge_2018.png)
+![2018_Stocks_Analysis](Resources/VBA_Challenge_2018.png)
 
 In comparing these two years, we can see that 2018 showed declines for the majority of stocks in our portfolio. However, this was not universal, as ENPH and RUN showed gains, while DQ showed losses. While this is far from ideal, it shows that diversifying from just DQ allowed the portfolio to mitigate some of those losses, in comparison to if DQ was the only stock in the portfolio.
 
 Diving deeper into the underlying code of the analysis, we can see significant improvements in run times between the original code for 2018 and the new code.
 
-![2018_Run_Time_Original](resources/2018_run_time_old_code.png)
+![2018_Run_Time_Original](Resources/2018_run_time_old_code.png)
 
-![2018_Run_Time_New](resources/2018_run_time_new_code.png)
+![2018_Run_Time_New](Resources/2018_run_time_new_code.png)
 
 ## Summary
 
